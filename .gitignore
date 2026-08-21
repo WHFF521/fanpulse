@@ -1,0 +1,10 @@
+.env
+.cache/
+bin/
+coverage.out
+*.test
+*.log
+.idea/
+.vscode/
+dist/
+对话.md
